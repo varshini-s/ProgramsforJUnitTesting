@@ -28,6 +28,7 @@ public class temperaturConversion
 
 				break;
 		}
+		scanner.close();
 	}
 
 }

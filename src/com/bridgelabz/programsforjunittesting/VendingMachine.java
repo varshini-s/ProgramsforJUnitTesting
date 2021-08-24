@@ -38,6 +38,7 @@ public class VendingMachine
 		 System.out.println("List of Rs notes given in change :");
 		 System.out.println("\nMinimum notes needed to give changes is:"+minimumNotes(change,0));
 		 
+		 scanner.close();
 
 	}
 
